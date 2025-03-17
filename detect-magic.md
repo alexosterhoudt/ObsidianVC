@@ -1,0 +1,4 @@
+# Detect Magic
+For the [duration](https://roll20.net/compendium/dnd5e/Rules:Spells?expansion=34047#toc_20), you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your [action](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_20) to see a faint aura around any visible creature or object in the area that bears magic, and you learn its [school of magic](https://roll20.net/compendium/dnd5e/Rules:Spells?expansion=34047#toc_34), if any.  
+  
+The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.

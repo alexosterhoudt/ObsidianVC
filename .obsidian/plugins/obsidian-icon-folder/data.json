@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiScrollText"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "World/5e Modules/Phandelver and Below/Chapter 1. A Dangerous Journey.md": "LiScrollText",
+  "World/5e Modules/Phandelver and Below/Chapter 2. Trouble in Phandalin.md": "LiScrollText",
+  "World/5e Modules/Phandelver and Below/Chapter 3. The Spider's Web.md": "LiScrollText",
+  "World/5e Modules/Phandelver and Below/Chapter 4. Wave Echo Cave.md": "LiScrollText",
+  "World/5e Modules/Phandelver and Below/Chapter 5. Paths of Peril.md": "LiScrollText",
+  "World/5e Modules/Phandelver and Below/Chapter 6. The Shattered Obelisk.md": "LiScrollText",
+  "World/5e Modules/Phandelver and Below/Chapter 7. Rifts in Reality.md": "LiScrollText",
+  "World/5e Modules/Phandelver and Below/Chapter 8. Beyond a Lightless Star.md": "LiScrollText"
+}

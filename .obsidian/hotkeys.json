@@ -1,0 +1,27 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-text-format:remove-url-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-text-format:merge-line": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ]
+}

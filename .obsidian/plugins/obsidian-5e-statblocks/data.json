@@ -1,0 +1,146 @@
+{
+  "monsters": [
+    [
+      "Goblin Boss",
+      {
+        "name": "Goblin Boss",
+        "size": "Small",
+        "type": "Fey",
+        "subtype": "Goblinoid",
+        "alignment": "Chaotic Neutral",
+        "ac": 17,
+        "hp": 21,
+        "hit_dice": "6d6",
+        "speed": "30 ft",
+        "stats": [
+          10,
+          14,
+          10,
+          10,
+          8,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 6
+          }
+        ],
+        "senses": "Darkvision 60ft, Passive Perception 9",
+        "languages": "Common, Goblin",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Nimble Escape",
+            "desc": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The goblin makes two attacksusing Scimitar or Shortbow in any combination."
+          },
+          {
+            "name": "Scimitar",
+            "desc": "_Melee Attack Roll:_ +4reach 5 ft. _Hit:_ 5 (1d6 + 2) Slashing damage."
+          },
+          {
+            "name": "Shortbow",
+            "desc": "_Ranged Attack Roll:_ +4range 80/320 ft. _Hit:_ 5 (1d6 + 2) Piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Redirect Attack",
+            "desc": "_Trigger:_ A creature the goblin can see makes an attack roll against it. _Response:_ The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap placesand the ally becomes the target of the attack instead."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Sildar Hallwinter",
+      {
+        "name": "Sildar Hallwinter",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Neutral Good",
+        "ac": 16,
+        "hp": 27,
+        "hit_dice": "5d8+5",
+        "speed": "30 ft",
+        "stats": [
+          13,
+          10,
+          12,
+          10,
+          11,
+          10
+        ],
+        "saves": [
+          {
+            "Strength": 3
+          },
+          {
+            "Constitution": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "Perception": 2
+          }
+        ],
+        "senses": "Passive Perception 12",
+        "languages": "Common",
+        "cr": 1,
+        "actions": [
+          {
+            "name": "_**Multiattack**_",
+            "desc": "Sildar makes two Longsword attacks."
+          },
+          {
+            "name": "_**Longsword**_",
+            "desc": "_Melee Weapon Attack:_ +3reach 5 ft.One target. _Hit:_ 5 (1d8+1) slashing damageor 6 (1d10+1) slashing damage is using both hands."
+          },
+          {
+            "name": "_**Heavy Crossbow**_",
+            "desc": "_Ranged Weapon Attack:_ +2range 100/400 ft.One target. _Hit:_ 5 (1d10) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "_**Parry:**_",
+            "desc": "When an attacker Sildar can see would hit him with a melee attackhe can roll a d6 and add the number rolled to his AC against the triggering attackprovided he’s wielding a melee weapon."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 8,
+    "patch": 1
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

@@ -1,0 +1,13 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@paper": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": false,
+  "ITS@@its-d": false,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@lp-img-float": true,
+  "ITS@@file-explorer-flat": true,
+  "ITS@@ITS-folder-arrows": "folder-arrow-display"
+}

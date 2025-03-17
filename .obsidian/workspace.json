@@ -1,0 +1,404 @@
+{
+  "main": {
+    "id": "2b0a95a9553b8704",
+    "type": "split",
+    "children": [
+      {
+        "id": "113fa11dca227499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adbf675a86877f20",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Homebrew Monsters 5e",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Monsters 5e.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Homebrew Monsters 5e\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.2857142857142856}"
+                },
+                {
+                  "title": "Lost Mine of Phandelver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lost Mine of Phandelver.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lost Mine of Phandelver\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Chapter 1. A Dangerous Journey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/5e Modules/Phandelver and Below/Chapter 1. A Dangerous Journey.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1. A Dangerous Journey\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":244,\"ch\":0},\"to\":{\"line\":244,\"ch\":0}},\"scroll\":236.63345996538797}"
+                },
+                {
+                  "title": "Homebrew Monsters 5e",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Monsters 5e.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Homebrew Monsters 5e\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":30.393974302857274}"
+                },
+                {
+                  "title": "Chapter 1. A Dangerous Journey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/5e Modules/Phandelver and Below/Chapter 1. A Dangerous Journey.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1. A Dangerous Journey\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":246,\"ch\":0},\"to\":{\"line\":246,\"ch\":0}},\"scroll\":240.1617820660273}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/5e Modules/Phandelver and Below/Chapter 1. A Dangerous Journey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1. A Dangerous Journey"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fc860b7e29942a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ddda641e71cd49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ef19b591162a838",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3279233983b1ec4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd536540908e314c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3e67f8b04d0ff704",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Screen.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Screen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e16784bae51666bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac2ad336c7e6fff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76038388518cb72f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conditions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Conditions"
+            }
+          },
+          {
+            "id": "83c3c8337764ba85",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Phandalin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Phandalin"
+            }
+          },
+          {
+            "id": "effa2497414e161e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3cabbed569135e0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DM Screen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DM Screen"
+            }
+          },
+          {
+            "id": "c735dfbebbe6bc41",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "581113a9da1bcc7c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "23396d6f43323ee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3124c3b9f3d7d4c0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5ef19b591162a838",
+  "lastOpenFiles": [
+    "World/5e Modules/Phandelver and Below/Chapter 1. A Dangerous Journey.md",
+    "z_assets/01-005.klarg-et-al.png",
+    "z_assets/Sildar Hallwinter.png",
+    "Homebrew Monsters 5e.md",
+    "Lost Mine of Phandelver.md",
+    "z_assets/01-004.sildar-hallwinter.png",
+    "z_assets/01-003.cragmaw-wolf.png",
+    "DM Screen.md",
+    "z_assets/01-002.cragmaw-goblin-ambush.jpg",
+    "z_assets/map-1.02-Cragmaw-Hideout.png",
+    "z_assets/map-1.01-Goblin-Ambush.png",
+    "z_assets/01-001.ch1-splash.jpg",
+    "World/5e Modules/Phandelver and Below/Phandelver and Below.md",
+    "World/5e Modules/Phandelver and Below/Chapter 8. Beyond a Lightless Star.md",
+    "World/5e Modules/Phandelver and Below/Chapter 7. Rifts in Reality.md",
+    "World/5e Modules/Phandelver and Below/Chapter 6. The Shattered Obelisk.md",
+    "World/5e Modules/Phandelver and Below/Chapter 5. Paths of Peril.md",
+    "World/5e Modules/Phandelver and Below/Chapter 4. Wave Echo Cave.md",
+    "World/5e Modules/Phandelver and Below/Chapter 3. The Spider's Web.md",
+    "World/5e Modules/Phandelver and Below/Chapter 2. Trouble in Phandalin.md",
+    "z_assets/tso-cover-art.jpg",
+    "World/5e Modules/Phandelver and Below",
+    "World/5e Modules",
+    "World",
+    "z_assets",
+    "detect-magic.md",
+    "Ability Checks.md",
+    "09-adventuring.md",
+    "08-using-ability-scores.md",
+    "Dexterity.md",
+    "Conditions.md",
+    "z_templates/Statblock [Custom].md",
+    "z_templates/Statblock.md",
+    "z_templates/Callout Box Danger.md",
+    "z_templates/Callout Box Failure.md",
+    "z_templates/Callout Box Warning.md",
+    "z_templates/Callout Box Question.md",
+    "z_templates/Callout Box Success.md",
+    "z_templates/Callout Box Expanded.txt",
+    "z_templates/CustomNameExpanded.css",
+    "z_templates",
+    "Templates",
+    "New folder"
+  ]
+}
